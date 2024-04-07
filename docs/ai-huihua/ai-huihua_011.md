@@ -1,0 +1,41 @@
+# 1.3.2 其他出图工具
+
+•门槛：几乎没有
+
+•操作语言：中文（如果遇到需要英文描述词的情况，善用翻译器）
+
+•操作步骤：跟着操作框操作即可
+
+百度文心
+
+百度文心一格：[`yige.baidu.com/`](https://yige.baidu.com/?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRlZmF1bHQiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE2Njg1MDM0NjYsImZpbGVHVUlEIjoiNXJrOWQwekV2bUhNbjlxeCIsImlhdCI6MTY2ODUwMzE2NiwiaXNzIjoidXBsb2FkZXJfYWNjZXNzX3Jlc291cmNlIiwidXNlcklkIjotNzM1ODA2ODk4MX0.pPZyVpxdSuMEfv_nbVd-Z1cBehPproEdTiZiYY8ERFQ)
+
+百度的 ERNIE-ViLG 文生图体验（可以在微信端体验）：[`wenxin.baidu.com/moduleApi/ernieVilg`](https://wenxin.baidu.com/moduleApi/ernieVilg?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRlZmF1bHQiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE2Njg1MDM0NjYsImZpbGVHVUlEIjoiNXJrOWQwekV2bUhNbjlxeCIsImlhdCI6MTY2ODUwMzE2NiwiaXNzIjoidXBsb2FkZXJfYWNjZXNzX3Jlc291cmNlIiwidXNlcklkIjotNzM1ODA2ODk4MX0.pPZyVpxdSuMEfv_nbVd-Z1cBehPproEdTiZiYY8ERFQ)
+
+无界版图
+
+跟 NFT 和文创结合：[`www.wujiebantu.com/ai`](https://www.wujiebantu.com/ai?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRlZmF1bHQiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE2Njg1MDM0NjYsImZpbGVHVUlEIjoiNXJrOWQwekV2bUhNbjlxeCIsImlhdCI6MTY2ODUwMzE2NiwiaXNzIjoidXBsb2FkZXJfYWNjZXNzX3Jlc291cmNlIiwidXNlcklkIjotNzM1ODA2ODk4MX0.pPZyVpxdSuMEfv_nbVd-Z1cBehPproEdTiZiYY8ERFQ)
+
+Tiamat
+
+[`tiamat.world/`](https://tiamat.world/?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRlZmF1bHQiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE2Njg1MDM0NjYsImZpbGVHVUlEIjoiNXJrOWQwekV2bUhNbjlxeCIsImlhdCI6MTY2ODUwMzE2NiwiaXNzIjoidXBsb2FkZXJfYWNjZXNzX3Jlc291cmNlIiwidXNlcklkIjotNzM1ODA2ODk4MX0.pPZyVpxdSuMEfv_nbVd-Z1cBehPproEdTiZiYY8ERFQ) 微信小程序 Tiamat 暂时没有网页端
+
+盗梦师
+
+西湖大学心辰科技 （网页端和小程序）：[`www.printidea.art/`](https://www.printidea.art/?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRlZmF1bHQiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE2Njg1MDM0NjYsImZpbGVHVUlEIjoiNXJrOWQwekV2bUhNbjlxeCIsImlhdCI6MTY2ODUwMzE2NiwiaXNzIjoidXBsb2FkZXJfYWNjZXNzX3Jlc291cmNlIiwidXNlcklkIjotNzM1ODA2ODk4MX0.pPZyVpxdSuMEfv_nbVd-Z1cBehPproEdTiZiYY8ERFQ)
+
+即时 AI
+
+基于 SD 的图生图插件：[`js.design/`](https://js.design/?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRlZmF1bHQiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE2Njg1MDM0NjYsImZpbGVHVUlEIjoiNXJrOWQwekV2bUhNbjlxeCIsImlhdCI6MTY2ODUwMzE2NiwiaXNzIjoidXBsb2FkZXJfYWNjZXNzX3Jlc291cmNlIiwidXNlcklkIjotNzM1ODA2ODk4MX0.pPZyVpxdSuMEfv_nbVd-Z1cBehPproEdTiZiYY8ERFQ)
+
+站酷 AILAB
+
+网页：[`www.zcool.com.cn/ailab`](https://www.zcool.com.cn/ailab?accessToken=eyJhbGciOiJIUzI1NiIsImtpZCI6ImRlZmF1bHQiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE2Njg1MDM0NjYsImZpbGVHVUlEIjoiNXJrOWQwekV2bUhNbjlxeCIsImlhdCI6MTY2ODUwMzE2NiwiaXNzIjoidXBsb2FkZXJfYWNjZXNzX3Jlc291cmNlIiwidXNlcklkIjotNzM1ODA2ODk4MX0.pPZyVpxdSuMEfv_nbVd-Z1cBehPproEdTiZiYY8ERFQ)
+
+意间 AI
+
+网页：[`yjai.ai-galaxy.com/`](http://yjai.ai-galaxy.com/)
+
+如果你已经能够流畅出图，想尝试更多 AI 绘画的应用与变现，可以直接跳转至【下篇：AI 绘画的应用与变现】
+
+![](img/e12d1c8b9f4ffdf6c4edf913cceed533.png)
