@@ -1,4 +1,4 @@
-+   [生财有术大航海：ChatGPT+海外工具实战手册 202305](README.md)
++   [ChatGPT+海外工具实战手册 202305](README.md)
 +   [写在前面](cgpt-haiwai-gongju_001.md)
 +   [一、英文工具站基础介绍](cgpt-haiwai-gongju_002.md)
 +   [章节概要](cgpt-haiwai-gongju_003.md)

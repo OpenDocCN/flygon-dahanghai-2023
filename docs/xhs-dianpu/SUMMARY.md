@@ -1,4 +1,4 @@
-+   [生财有术大航海：小红书店铺实战手册 202305](README.md)
++   [小红书店铺实战手册 202305](README.md)
 +   [写在前面](xhs-dianpu_001.md)
 +   [Hi，](xhs-dianpu_002.md)
 +   [一、了解小红书](xhs-dianpu_003.md)

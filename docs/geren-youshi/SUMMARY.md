@@ -1,4 +1,4 @@
-+   [生财有术大航海：个人优势挖掘实战手册 202305](README.md)
++   [个人优势挖掘实战手册 202305](README.md)
 +   [写在前面](geren-youshi_01.md)
 +   [Hi,](geren-youshi_02.md)
 +   [一、为什么要发现个人优势 @醒醒同学](geren-youshi_03.md)

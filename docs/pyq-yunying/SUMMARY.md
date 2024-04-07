@@ -1,4 +1,4 @@
-+   [生财有术大航海：朋友圈运营实战手册 202305](README.md)
++   [朋友圈运营实战手册 202305](README.md)
 +   [写在前面](pyq-yunying_001.md)
 +   [Hi,](pyq-yunying_002.md)
 +   [一、如何搭建朋友圈](pyq-yunying_003.md)

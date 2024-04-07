@@ -1,4 +1,4 @@
-+   [生财有术大航海：抖音 SEO 实战手册 202305](README.md)
++   [抖音 SEO 实战手册 202305](README.md)
 +   [写在前面](douyin-seo_01.md)
 +   [Hi,](douyin-seo_02.md)
 +   [一、抖音 SEO 与高客单项目 @令狐峰 @Hawli（李小随）](douyin-seo_03.md)

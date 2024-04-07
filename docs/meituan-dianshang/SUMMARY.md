@@ -1,4 +1,4 @@
-+   [生财有术大航海：美团电商实战手册 202305](README.md)
++   [美团电商实战手册 202305](README.md)
 +   [写在前面](meituan-dianshang_001.md)
 +   [Hi，](meituan-dianshang_002.md)
 +   [一、什么是美团电商 @刘家齐](meituan-dianshang_003.md)

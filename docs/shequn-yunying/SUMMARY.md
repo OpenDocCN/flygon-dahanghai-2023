@@ -1,4 +1,4 @@
-+   [生财有术大航海：社群运营实战手册 202305](README.md)
++   [社群运营实战手册 202305](README.md)
 +   [写在前面](shequn-yunying_01.md)
 +   [零、坐稳扶好，我们出发！](shequn-yunying_02.md)
 +   [0.1 本手册的学习路径是怎样的？](shequn-yunying_03.md)

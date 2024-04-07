@@ -1,4 +1,4 @@
-+   [生财有术大航海：短剧 CPS 实战手册 202305](README.md)
++   [短剧 CPS 实战手册 202305](README.md)
 +   [写在前面](duanju-cps_01.md)
 +   [Hi,](duanju-cps_02.md)
 +   [一、项目介绍](duanju-cps_03.md)

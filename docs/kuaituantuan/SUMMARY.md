@@ -1,4 +1,4 @@
-+   [生财有术大航海：快团团私域实战手册 202305](README.md)
++   [快团团私域实战手册 202305](README.md)
 +   [写在前面](kuaituantuan_01.md)
 +   [一、认识快团团](kuaituantuan_02.md)
 +   [章节概要](kuaituantuan_03.md)

@@ -1,4 +1,4 @@
-+   [生财有术大航海：AI 绘画实战手册 202305](README.md)
++   [AI 绘画实战手册 202305](README.md)
 +   [写在前面](ai-huihua_001.md)
 +   [Hi,](ai-huihua_002.md)
 +   [上篇：学会 AI 绘画](ai-huihua_003.md)

@@ -1,4 +1,4 @@
-+   [生财有术大航海：视频号带货实战手册 202305](README.md)
++   [视频号带货实战手册 202305](README.md)
 +   [写在前面](shipinhao-daihuo_001.md)
 +   [第一步 - 了解视频号](shipinhao-daihuo_002.md)
 +   [1.1 视频号现状](shipinhao-daihuo_003.md)

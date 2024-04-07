@@ -1,4 +1,4 @@
-+   [生财有术大航海：公众号爆文写作实战手册 202305](README.md)
++   [公众号爆文写作实战手册 202305](README.md)
 +   [写在前面](gzh-baowen_01.md)
 +   [Hi,](gzh-baowen_02.md)
 +   [一、公众号爆文写作的前景](gzh-baowen_03.md)

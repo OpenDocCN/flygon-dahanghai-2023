@@ -1,4 +1,4 @@
-+   [生财有术大航海：小红书运营实战手册 202305](README.md)
++   [小红书运营实战手册 202305](README.md)
 +   [写在前面](xhs-yunying_001.md)
 +   [引言](xhs-yunying_002.md)
 +   [一、了解小红书](xhs-yunying_003.md)

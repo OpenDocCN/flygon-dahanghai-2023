@@ -1,4 +1,4 @@
-+   [生财有术大航海：时间管理实战手册 202305](README.md)
++   [时间管理实战手册 202305](README.md)
 +   [写在前面](shijian-guanli_01.md)
 +   [Hi,](shijian-guanli_02.md)
 +   [一、时间管理是什么？](shijian-guanli_03.md)

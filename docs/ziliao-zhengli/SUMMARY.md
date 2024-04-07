@@ -1,4 +1,4 @@
-+   [生财有术大航海：资料整理实战手册 202305](README.md)
++   [资料整理实战手册 202305](README.md)
 +   [写在前面](ziliao-zhengli_001.md)
 +   [Hi,](ziliao-zhengli_002.md)
 +   [一、基础介绍 @洛羽](ziliao-zhengli_003.md)

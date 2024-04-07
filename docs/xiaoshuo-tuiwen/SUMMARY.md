@@ -1,4 +1,4 @@
-+   [生财有术大航海：小说推文实战手册 202305](README.md)
++   [小说推文实战手册 202305](README.md)
 +   [写在前面](xiaoshuo-tuiwen_001.md)
 +   [Hi,](xiaoshuo-tuiwen_002.md)
 +   [一、什么是小说推文项目](xiaoshuo-tuiwen_003.md)

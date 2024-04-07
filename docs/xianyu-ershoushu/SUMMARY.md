@@ -1,4 +1,4 @@
-+   [生财有术大航海：闲鱼二手书实战手册 202305](README.md)
++   [闲鱼二手书实战手册 202305](README.md)
 +   [写在前面](xianyu-ershoushu_01.md)
 +   [一、了解闲鱼二手书项目](xianyu-ershoushu_02.md)
 +   [章节概要](xianyu-ershoushu_03.md)

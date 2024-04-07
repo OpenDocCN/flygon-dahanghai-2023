@@ -1,4 +1,4 @@
-+   [生财有术大航海：ChatGPT+自媒体实战手册 202305](README.md)
++   [ChatGPT+自媒体实战手册 202305](README.md)
 +   [写在前面](cgpt-zimeiti_01.md)
 +   [Hi,](cgpt-zimeiti_02.md)
 +   [上篇：了解并掌握 ChatGPT 的基础操作 @森林](cgpt-zimeiti_03.md)
