@@ -1,5 +1,5 @@
 
-# (42赞)亚马逊+Midjourney=新机遇？
+# (42 赞)亚马逊+Midjourney=新机遇？
 
 作者： Violet
 
@@ -7,29 +7,29 @@
 
 亚马逊+Midjourney=新机遇？
 
-哈喽哈，我是小紫，一个产品转化做到79.3%的亚马逊操盘手。
+哈喽哈，我是小紫，一个产品转化做到 79.3%的亚马逊操盘手。
 
-这段时间小紫简直对AI是一整个痴迷的状态。
+这段时间小紫简直对 AI 是一整个痴迷的状态。
 
-原本是为了提高效率让助理去研究AI，结果我自己却陷进了Midjourney（AI绘画工具），连玩一周。
+原本是为了提高效率让助理去研究 AI，结果我自己却陷进了 Midjourney（AI 绘画工具），连玩一周。
 
-可以说，Midjourney给我在图片领域带来的震撼，以及它将对设计领域的颠覆，完全不亚于ChatGPT对文字领域的带来的重塑和解构！
+可以说，Midjourney 给我在图片领域带来的震撼，以及它将对设计领域的颠覆，完全不亚于 ChatGPT 对文字领域的带来的重塑和解构！
 
-本文主要讲我的一周Midjourney体验过程、感受与总结。
+本文主要讲我的一周 Midjourney 体验过程、感受与总结。
 
-全文链接（全文看完大概5分钟）
+全文链接（全文看完大概 5 分钟）
 
 ————
 
-https://infinitereshaping.feishu.cn/docx/SibhddFTZonIEKxUBs9cMvH9nEf评论区：
+https://infinitereshaping.feishu.cn/docx/SibhddFTZonIEKxUBs9cMvH9nEf 评论区：
 
-wilsion亚马逊 : 亚马逊和midjourney怎么结合一起用呀？生成产品详情页吗？
+wilsion 亚马逊 : 亚马逊和 midjourney 怎么结合一起用呀？生成产品详情页吗？
 
 星海 : 可以图生图吗？
 
-Violet : 可以的，/blend指令就是图生图的
+Violet : 可以的，/blend 指令就是图生图的
 
-Violet : 是的，Ai是可以调教的，你也可以生成你想要的素材，再把自己产品揉进去就行  wilsion亚马逊 : 有没有调解成功案例参考下，我调教的都不是很适用于亚马逊的详情页[流泪][流泪]
+Violet : 是的，Ai 是可以调教的，你也可以生成你想要的素材，再把自己产品揉进去就行  wilsion 亚马逊 : 有没有调解成功案例参考下，我调教的都不是很适用于亚马逊的详情页[流泪][流泪]
 
 Violet : 哈哈哈~我的建议就是多参考参考频道里大神的关键词，我给你案例生成出来的 
 
