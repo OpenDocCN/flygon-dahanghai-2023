@@ -27,11 +27,10 @@
 
 ![](img/ai-huihua2_002.png)
 
-#   
 
-# （⼀） ⼀段好的提⽰词是什么样⼦？ 
+**（⼀） ⼀段好的提⽰词是什么样⼦？ **
 
-# 1.思路 
+**1.思路 **
 
 ⾸先，我们要明⽩AI 绘画是能将你脑海中的画⾯呈现出来的⼯具。那么你脑海中的那副画⾯是要描述？那是怎么样⼦的⼀幅画？画中具体有什么？是⼀个⼈嘛？是⼈的话，是⼀个怎么样的⼈？⼈的具体情况是如何的？TA⻓的什么模样？穿的什么服装？在做什么？ 
 
@@ -109,7 +108,7 @@ A very cute blue rabbit, standing，ears down and a football in his hand 译⽂�
 
   
 
-# 2.举例 
+**2.举例 **
 
 接下来就⽤举个栗⼦吧，⽅便⼤家理解。
 
@@ -143,9 +142,9 @@ A magnificent crystal palace is above the clouds. The palace covered with pink f
 
   
 
-# （⼆） 如何写提⽰词？ 
+**（⼆） 如何写提⽰词？ **
 
-# 1. 词语替换、精简和改写 
+**1. 词语替换、精简和改写 **
 
 从朋友那⾥得到了⼀段提⽰词，如下：
 
@@ -251,7 +250,7 @@ watercolor::5,Cyberpunk City,night,street--v 4 （译⽂来⾃百度翻译：⽔
 
 ![](img/ai-huihua2_015.png)![](img/ai-huihua2_016.png)
 
-# 2. 如何实现脑海中的想法 
+**2. 如何实现脑海中的想法 **
 
 我在群⾥/抖⾳/⼩红书，看到⼀张好看的图⽚，也找到了相应的提⽰语，我要怎么变成我想要的图呢？ 举个栗⼦：
 
@@ -313,7 +312,7 @@ mirror image,above water is a tall pirate ship,half bule and half orange, sunris
 
   
 
-# 3. 完全原创应该如何写 
+**3. 完全原创应该如何写 **
 
 当你熟悉了上⾯2 个⽅式之后，对于提⽰词⼀定是有了不少的理解了，但是还是会想，所有的都是基于别⼈的提⽰词，怎么能够满⾜⾃⼰的需求呢？不能完全原创的话，那就是只能够"有什么⽤什么"，⽽不是"⽤什么有什么"。 
 
@@ -387,7 +386,7 @@ masterpiece,1 girl, white background, watercolor, upper body，extremely detAIle
 
 然后将你想要的内容套进公式⾥，每⼀项都进⾏丰富，就可以得到⼀个好的提⽰词  
 
-# 4. 如何看图推提⽰词 
+**4. 如何看图推提⽰词 **
 
 很多⼈都遇⻅过⼀个问题，我只是在抖⾳/⼩红书等平台看到⼀张图，觉得很好看，但是找不到它的关键词要怎么办？
 
@@ -445,7 +444,7 @@ Yin and Yang, Symmetry, Ring, Cloud Sea, Moon --v 4 扔进软件⾥试试看：
 
 把你看到的画⾯描述出来，让 chatGPT 帮助你写提⽰词，⽤AI+AI。   
 
-# 5. AI 绘画的⼀些技巧 
+**5. AI 绘画的⼀些技巧 **
 
 ①优先符合“常识”
 
@@ -501,9 +500,9 @@ reference sheet,iphone,three sided view --v 4 扔进软件测试 如下：
 
   
 
-# （三） 如何运⽤AI 
+**（三） 如何运⽤AI **
 
-# 1.AI 绘画会冲击谁 
+**1.AI 绘画会冲击谁 **
 
 ①低端画师
 
@@ -515,7 +514,7 @@ reference sheet,iphone,three sided view --v 4 扔进软件测试 如下：
 
   
 
-# 2.变现的⼏个⽅式 
+**2.变现的⼏个⽅式 **
 
 ①卖关键词
 
@@ -579,7 +578,7 @@ reference sheet,iphone,three sided view --v 4 扔进软件测试 如下：
 
   
 
-# 3.运⽤⽰例： 
+**3.运⽤⽰例： **
 
 l 三视图 
 
@@ -647,9 +646,9 @@ l 环境建筑效果图
 
 图源⾃⼩红书
 
-#   
 
-# （四） AI 绘画到底意味着什么 
+
+**（四） AI 绘画到底意味着什么 **
 
 AI 绘画终究是⼀个⼯具，并不能完全取代画师，但是起码可以帮助普通⼈，⽤较低的成本去描绘出脑海中浮现的画⾯。
 
