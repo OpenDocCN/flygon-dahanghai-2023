@@ -1,5 +1,5 @@
 
-# (精华帖)(327赞)作为普通人，我们该如何挖掘商机？
+# (精华帖)(327 赞)作为普通人，我们该如何挖掘商机？
 
  
 
@@ -31,7 +31,7 @@
 
 那么，我们该如何高效的挖掘需求呢？为了阅读体验，请大家移步飞书：
 
-https://rlp3cigezs.feishu.cn/docx/CWTGdnwBZoreawxpweSc128UnPe评论区：
+https://rlp3cigezs.feishu.cn/docx/CWTGdnwBZoreawxpweSc128UnPe 评论区：
 
 亻吕゜ : 有启发[强]
 

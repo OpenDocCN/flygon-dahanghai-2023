@@ -1,2 +1,2 @@
 
-# 【ChatGPT 借力】2篇
+# 【ChatGPT 借力】2 篇

@@ -1,5 +1,5 @@
 
-# (精华帖)(208赞)用逆向思维收集大量被忽略的「声音」
+# (精华帖)(208 赞)用逆向思维收集大量被忽略的「声音」
 
 作者：  小曾
 
@@ -33,7 +33,7 @@ https://mp.weixin.qq.com/s/H9AlHdLFTxqezMEjVKSIhQ https://shimo.im/docs/r693xchr
 
 评论区：
 
-北魏 : 大佬微信jia yi x q
+北魏 : 大佬微信 jia yi x q
 
 新江 : 太强了[强]
 

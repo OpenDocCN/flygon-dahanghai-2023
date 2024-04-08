@@ -1,11 +1,11 @@
 
-# (精华帖)(263赞)数据是需求的抽象化 帮你快速找到 100 个赚钱思路
+# (精华帖)(263 赞)数据是需求的抽象化 帮你快速找到 100 个赚钱思路
 
  
 
  
 
-作者：  明白（晚9点半睡觉）
+作者：  明白（晚 9 点半睡觉）
 
 日期：2019-10-15
 
@@ -547,7 +547,7 @@
 
 知乎是啥？
 
-一个UGC（User-generated Content，用户生产内容）平台。
+一个 UGC（User-generated Content，用户生产内容）平台。
 
 这里的用户，
 
@@ -689,7 +689,7 @@
 
 公众号
 
-抖音/快手/B站
+抖音/快手/B 站
 
 ……
 
@@ -889,7 +889,7 @@
 
 （完）
 
-https://t.zsxq.com/7YfQfyj https://mp.weixin.qq.com/s/0cWrxYamykTzP2his87k7w https://mp.weixin.qq.com/s/119PotnvIrkE-icPZhue1w评论区：
+https://t.zsxq.com/7YfQfyj https://mp.weixin.qq.com/s/0cWrxYamykTzP2his87k7w https://mp.weixin.qq.com/s/119PotnvIrkE-icPZhue1w 评论区：
 
 乔里奥 : 献上我的膝盖
 
@@ -897,7 +897,7 @@ https://t.zsxq.com/7YfQfyj https://mp.weixin.qq.com/s/0cWrxYamykTzP2his87k7w htt
 
 苏笙爱摸鱼🐶 : 献上我的膝盖
 
-白杨SEO : 献上我的双手
+白杨 SEO : 献上我的双手
 
 贤庭 : [强][强][强]
 
@@ -907,6 +907,6 @@ Dancer : 研究了准备做个教程课，连续准备测试了两三个月，�
 
 需求，经过自己成长学习的过程发现这个行业的痛点，所以做这个解决痛点的事，不知道是不是自嗨，准备参加创业大赛，然后拿融资[囧]，后面再从各个平台上收集一些数据和问答
 
-V先生 : 献上我的膝盖
+V 先生 : 献上我的膝盖
 
 未央 : 献上我的膝盖

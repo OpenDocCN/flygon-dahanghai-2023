@@ -1,5 +1,5 @@
 
-# (精华帖)(95赞)小众产品的起点——需求挖掘（进阶篇）
+# (精华帖)(95 赞)小众产品的起点——需求挖掘（进阶篇）
 
 作者：  壹树
 
@@ -149,7 +149,7 @@ https://docs.google.com/spreadsheets/d/1fw6106Zh4IH4duvrKoh0MWQXeEIMDHa78RwFbmdS
 
 上面提到的 8 个环节，需要先对每个环节进行单独的理解，理解背后的意义，最后才能把各环节串连起来。这不是一时半刻就可以形成习惯，但我鼓励读者按上面的环节多做练习，把好奇心调动起来，习惯后你会发现很多之前没发现的问题。
 
-入门篇移步这里：https://articles.zsxq.com/id_5n39xwuf7b8o.html备注：里面提到的搜索方法可以看这里（第七章）：
+入门篇移步这里：https://articles.zsxq.com/id_5n39xwuf7b8o.html 备注：里面提到的搜索方法可以看这里（第七章）：
 
 https://docs.qq.com/doc/DVkpNanBSQkxYckZR?u=5f10639b05044d3086bcdef7e7f9e631
 
