@@ -15,7 +15,7 @@
 
 https://p9rxk6ovll.feishu.cn/docx/Tu7uda7qWoKCj1xvMlmcbtfBnqh 
 
-# 1.支付宝被动引流经历
+**1.支付宝被动引流经历**
 
 因为项目需要增加额外流量入口，尝试了支付宝的引流
 
@@ -37,7 +37,7 @@ https://p9rxk6ovll.feishu.cn/docx/Tu7uda7qWoKCj1xvMlmcbtfBnqh
 
 为了方便展开具体细节，先系统说 2 点，好在优化前有一定的系统性认知
 
-# 2.支付宝流量类目
+**2.支付宝流量类目**
 
 
 
@@ -59,7 +59,7 @@ https://p9rxk6ovll.feishu.cn/docx/Tu7uda7qWoKCj1xvMlmcbtfBnqh
 
 ![](img/tongcheng-yinliu_0913.png)
 
-# 3.支付宝流量布局
+**3.支付宝流量布局**
 
 分为内部流量及外部流量
 
@@ -71,9 +71,9 @@ https://p9rxk6ovll.feishu.cn/docx/Tu7uda7qWoKCj1xvMlmcbtfBnqh
 
 ![](img/tongcheng-yinliu_0918.png)
 
-# 4.支付宝被动流量优化攻略
+**4.支付宝被动流量优化攻略**
 
-# 4.1 内部流量
+**4.1 内部流量**
 
 不懂平台的公域谈私域运营都是扯淡，同理，做支付宝要先明白公域流量的入口。
 
@@ -85,7 +85,7 @@ https://p9rxk6ovll.feishu.cn/docx/Tu7uda7qWoKCj1xvMlmcbtfBnqh
 
 ![](img/tongcheng-yinliu_0923.png)
 
-# 公域：
+**公域：**
 
 包括首页推荐、搜索推荐、消费券推广、支付成功页、生活频道、会员频道、繁星计划投放、商业化投放等
 
@@ -243,7 +243,7 @@ https://p9rxk6ovll.feishu.cn/docx/Tu7uda7qWoKCj1xvMlmcbtfBnqh
 
 
 
-# 私域：
+**私域：**
 
 包括收藏引导、生活号、订阅消息、群用户、小程序、商家会员、门店、线下物料、LOT、多平台（社交、内容、电商、O2O）等
 
@@ -293,7 +293,7 @@ https://p9rxk6ovll.feishu.cn/docx/Tu7uda7qWoKCj1xvMlmcbtfBnqh
 
 灵活运用好，对私域运营帮助不小
 
-# 4.2 外部流量
+**4.2 外部流量**
 
 还记得前面说的流量布局吗，打通了很多支付宝生态的渠道
 

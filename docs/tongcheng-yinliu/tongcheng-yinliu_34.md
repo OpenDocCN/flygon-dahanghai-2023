@@ -7,13 +7,13 @@
 
 不说废话，直接展示
 
-# 信息化建设
+**信息化建设**
 
 这块有很多细节容易被忽略，分别从最初的注册到物料筹备
 
 
 
-# 1.工商注册：
+**1.工商注册：**
 
 这个虽然不涉及互联网工具使用，但为了 SEO，最好加上行业关键词，无论你认证抖音还是公众号小程序还是上美团，对 SEO 都有帮助
 
@@ -25,7 +25,7 @@
 
 
 
-# 2.商标授权：
+**2.商标授权：**
 
 如果你是加盟商或者特许经营，拿到品牌授权书去认证账号，借助官方的影响力或者搜索流量
 
@@ -35,7 +35,7 @@
 
 
 
-# 3.地图：
+**3.地图：**
 
 常见平台：百度地图（百度地图 app 标注）、腾讯地图（腾讯位置服务公众号）、高德地图（高德 app 标注），一般申请这 3 个够用了
 
@@ -61,7 +61,7 @@
 
 
 
-# 4.电话：来电标记：呼叫时在对方手机显示来电信息，如企业门店业务等
+**4.电话：来电标记：呼叫时在对方手机显示来电信息，如企业门店业务等**
 
 标记平台：
 
@@ -77,13 +77,13 @@
 
 举个反面例子，装修的时候接到过家具厂家售后电话，来电显示的却是月饼配送，直接挂掉。如果这个电话用来做电销，即使呼叫的是精准名单，得丢失多少客户。
 
-# 彩铃/400 电话：
+**彩铃/400 电话：**
 
 自定义等待提示音，特别是客服电话可根据时间点及不同渠道采用不同话术，比如下班后铃声切换为提示加微信/关注公众号等
 
 挂机短信：挂机后自动发送短信，可以咨询相关服务商。抖音有免费的挂机提示，开了蓝 v 的可以用这个功能。
 
-# 微信通话/视频铃声：通话等待期间自动播放，设置的广告铃声，适合企业宣传，ip 植入
+**微信通话/视频铃声：通话等待期间自动播放，设置的广告铃声，适合企业宣传，ip 植入**
 
 设置方法：视频号上传指定铃声视频，微信我的-新消息通知-提示音与铃声-来电铃声-更换-搜索指定视频号视频
 
@@ -97,7 +97,7 @@
 
 
 
-# 5.物料：
+**5.物料：**
 
 包装、物料、车贴冰箱贴、广告牌、灯箱、DM 单、票据、展架、大屏
 
@@ -127,7 +127,7 @@
 
 
 
-# 公转私：1.同城社群：
+**公转私：1.同城社群：**
 
 最多的就是企微群、qq 群、豆瓣群组了，找到进去引流
 
@@ -151,7 +151,7 @@ QQ 群之前有分享，重点说下开放式的同城微信群，可以直接�
 
 ![](img/tongcheng-yinliu_1097.png)
 
-# 2.同城活动平台：
+**2.同城活动平台：**
 
 
 
@@ -175,7 +175,7 @@ QQ 群之前有分享，重点说下开放式的同城微信群，可以直接�
 
 ![](img/tongcheng-yinliu_1106.png)
 
-# 3.自媒体
+**3.自媒体**
 
 不能转私域的自媒体不是好平台。
 
@@ -185,7 +185,7 @@ QQ 群之前有分享，重点说下开放式的同城微信群，可以直接�
 
 
 
-# 自媒体如何导流线下
+**自媒体如何导流线下**
 
 支付宝生活号/小程序：打通口碑，及收银，全平台公域发券，目前只有支付宝平台能免费做到，做品牌连锁的建议重视
 
@@ -205,7 +205,7 @@ QQ 群之前有分享，重点说下开放式的同城微信群，可以直接�
 
 ![](img/tongcheng-yinliu_1116.png)
 
-# 自媒体如何一键丝滑转私域
+**自媒体如何一键丝滑转私域**
 
 关于自媒体引流的很多文章都有分享，简介引流的方法很多，既然我们是做自动化转化的，当然要分享一些丝滑的转化方式，一键跳转个微、企微、公众号、文章、H5、微信群、视频号、微信客服等
 
@@ -247,7 +247,7 @@ https://p9rxk6ovll.feishu.cn/docx/B7QvdusuHo9IyoxDal2c6n7Gnkb#BUoWdIqCso8wuixuWS
 
 
 
-# 活动运营：活动运营
+**活动运营：活动运营**
 
 常见的方式有红包拓客、阶梯拼团、报名拓客、联盟商家等
 
@@ -259,9 +259,9 @@ https://p9rxk6ovll.feishu.cn/docx/B7QvdusuHo9IyoxDal2c6n7Gnkb#BUoWdIqCso8wuixuWS
 
 ![](img/tongcheng-yinliu_1134.png)
 
-# 场景构建
+**场景构建**
 
-# 进店/询价
+**进店/询价**
 
 个微：加好友享会员价
 
@@ -271,7 +271,7 @@ https://p9rxk6ovll.feishu.cn/docx/B7QvdusuHo9IyoxDal2c6n7Gnkb#BUoWdIqCso8wuixuWS
 
 企微：自动回复，领福利、拉群
 
-# 在线下单
+**在线下单**
 
 支付宝免费的用口碑就够了
 
@@ -285,7 +285,7 @@ https://p9rxk6ovll.feishu.cn/docx/B7QvdusuHo9IyoxDal2c6n7Gnkb#BUoWdIqCso8wuixuWS
 
 后面如果要花钱了，结合运营需求提供能，是为了引流，锁客，裂变还是全员营销还是做复购还是老带新...
 
-# 付款场景
+**付款场景**
 
 付款后加微信、加群
 
@@ -309,7 +309,7 @@ https://p9rxk6ovll.feishu.cn/docx/B7QvdusuHo9IyoxDal2c6n7Gnkb#BUoWdIqCso8wuixuWS
 
 ![](img/tongcheng-yinliu_1154.png) ![](img/tongcheng-yinliu_1155.png)
 
-# 扫码点餐
+**扫码点餐**
 
 
 
@@ -321,7 +321,7 @@ https://p9rxk6ovll.feishu.cn/docx/B7QvdusuHo9IyoxDal2c6n7Gnkb#BUoWdIqCso8wuixuWS
 
 ![](img/tongcheng-yinliu_1160.png)
 
-# 连 wifi
+**连 wifi**
 
 扫码小程序/公众号等自动连 wif，用这个入口去做服务和沉淀
 
@@ -331,7 +331,7 @@ https://p9rxk6ovll.feishu.cn/docx/B7QvdusuHo9IyoxDal2c6n7Gnkb#BUoWdIqCso8wuixuWS
 
 ![](img/tongcheng-yinliu_1165.png)
 
-# 领福利/抽奖
+**领福利/抽奖**
 
 发朋友圈这里就不说了
 
@@ -353,7 +353,7 @@ https://p9rxk6ovll.feishu.cn/docx/B7QvdusuHo9IyoxDal2c6n7Gnkb#BUoWdIqCso8wuixuWS
 
 ![](img/tongcheng-yinliu_1170.png)
 
-# 公域锁客
+**公域锁客**
 
 
 
@@ -389,11 +389,11 @@ https://p9rxk6ovll.feishu.cn/docx/B7QvdusuHo9IyoxDal2c6n7Gnkb#BUoWdIqCso8wuixuWS
 
 ![](img/tongcheng-yinliu_1205.png)
 
-# 2B 营销
+**2B 营销**
 
 
 
-# 数据库营销
+**数据库营销**
 
 一般 2B 的数据库来源：平台商家、地图、企业数据库、垂直网站等
 
@@ -463,7 +463,7 @@ https://aiqicha.baidu.com/m/usercenter/memberspread?cq=xlTM-TogKuTw2dXN7vO2-dFYE
 
 3.针对数据库匹配对应服务
 
-# 抖音数据库营销
+**抖音数据库营销**
 
 
 
@@ -471,13 +471,13 @@ https://aiqicha.baidu.com/m/usercenter/memberspread?cq=xlTM-TogKuTw2dXN7vO2-dFYE
 
 抖音数据抓取一般包括几种方式：抖音简介、关键词截流、直播截流、抖音小店（热销商品、小店）抖音门店（分区域，类目）
 
-# 抖音账号信息抓取：
+**抖音账号信息抓取：**
 
 一般通过抖音数据平台抓取抖音简介，抖音号，整理成文档。测试过目前市面上所有的数据平台，数据量最大的居然不是蝉妈妈。
 
 这个方式的缺陷是，如果对方没留信息，你是获取不到的。
 
-# 关键词截流：
+**关键词截流：**
 
 1 年前的工具，目前仍然有效，能持续动态监测找到目标用户。
 
@@ -489,7 +489,7 @@ https://aiqicha.baidu.com/m/usercenter/memberspread?cq=xlTM-TogKuTw2dXN7vO2-dFYE
 
 ![](img/tongcheng-yinliu_1234.png)
 
-# 直播截流：
+**直播截流：**
 
 和关键词截流类似，针对直播间进行监测
 
@@ -511,7 +511,7 @@ https://aiqicha.baidu.com/m/usercenter/memberspread?cq=xlTM-TogKuTw2dXN7vO2-dFYE
 
 ![](img/tongcheng-yinliu_1245.png)
 
-# 抖音小店（热销商品、小店）、抖音门店（分区域，类目）抓取
+**抖音小店（热销商品、小店）、抖音门店（分区域，类目）抓取**
 
 
 
@@ -521,7 +521,7 @@ https://aiqicha.baidu.com/m/usercenter/memberspread?cq=xlTM-TogKuTw2dXN7vO2-dFYE
 
 https://p9rxk6ovll.feishu.cn/docx/B7QvdusuHo9IyoxDal2c6n7Gnkb#LYOwd6IW2ooM2kxuu0lceKOmnFc
 
-# 报价单营销
+**报价单营销**
 
 报价单变为订单
 
